@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jun 04 14:36:05 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=FileMonitorUI_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.yn.spc.ui.SPCUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
